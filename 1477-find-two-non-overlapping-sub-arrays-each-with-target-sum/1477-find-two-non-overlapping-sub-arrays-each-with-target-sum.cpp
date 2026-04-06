@@ -1,85 +1,50 @@
 class Solution {
 public:
-    int minSumOfLengths(vector<int>& arr, int tar) {
-        
-        int n=arr.size();
-        vector<int>pref(n,INT_MAX),suff(n,INT_MAX);
+    int minSumOfLengths(vector<int>& arr, int target) {
+        int n = arr.size();
 
-        map<int,int>mp;
+        vector<int> pref(n, INT_MAX), suff(n, INT_MAX);
 
-        mp[0]=-1;
-        int sum=0;
-        int min_val=INT_MAX;
-        for(int i=0;i<n;i++)
-        {
-            sum+=arr[i];
-            if(mp.find(sum-tar)!=mp.end())
-            {
-                int len=i-mp[sum-tar];
-                min_val=min(min_val,len);
-                pref[i]=min_val;
-                
+        unordered_map<int, int> mp;
+        mp[0] = -1;
+
+        int sum = 0, min_len = INT_MAX;
+        for (int i = 0; i < n; i++) {
+            sum += arr[i];
+
+            if (mp.count(sum - target)) {
+                int len = i - mp[sum - target];
+                min_len = min(min_len, len);
             }
-            else
-            {
-                pref[i]=min_val;
-            }
-            mp[sum]=i;
 
+            pref[i] = min_len;
+            mp[sum] = i;
+        }
+        unordered_map<int, int> mp2;
+        mp2[0] = n;
+
+        sum = 0;
+        min_len = INT_MAX;
+
+        for (int i = n - 1; i >= 0; i--) {
+            sum += arr[i];
+
+            if (mp2.count(sum - target)) {
+                int len = mp2[sum - target] - i;
+                min_len = min(min_len, len);
+            }
+
+            suff[i] = min_len;
+            mp2[sum] = i;
+        }
+        int ans = INT_MAX;
+
+        for (int i = 0; i < n - 1; i++) {
+            if (pref[i] != INT_MAX && suff[i + 1] != INT_MAX) {
+                ans = min(ans, pref[i] + suff[i + 1]);
+            }
         }
 
-        map<int,int>mp1;
-
-        mp1[0]=n;
-        sum=0;
-        min_val=INT_MAX;
-        for(int i=n-1;i>=0;i--)
-        {
-            sum+=arr[i];
-            if(mp1.find(sum-tar)!=mp1.end())
-            {
-                int len=mp1[sum-tar]-i;
-                min_val=min(min_val,len);
-                suff[i]=min_val;
-            }
-            else
-            {
-                suff[i]=min_val;
-            }
-            mp1[sum]=i;
-        }
-
-        for(auto &x:pref)
-        {
-            cout<<x<<" ";
-        }
-        int i=0;
-        int cnt=0;
-        int ans=INT_MAX;
-        while(i<n-1)
-        {
-            if(pref[i]!=INT_MAX)
-            {
-                if(suff[i+1]!=INT_MAX)
-                {
-                    ans=min(ans,pref[i]+suff[i+1]);
-                    cnt=2;
-                }
-                else
-                {
-                    if(cnt==2)
-                    {
-                        return ans;
-                    }
-                    return -1;
-                }
-            }
-            i++;
-        }
-        if(ans==INT_MAX)
-        return -1;
-        return ans;
-
-
+        return ans == INT_MAX ? -1 : ans;
     }
 };
