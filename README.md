@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2069-walking-robot-simulation-ii) |
+## Simulation
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
