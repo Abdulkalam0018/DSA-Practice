@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2069-walking-robot-simulation-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
