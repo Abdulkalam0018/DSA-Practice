@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Divide and Conquer
 |  |
@@ -93,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
