@@ -8,35 +8,28 @@
  */
 class Solution {
 public:
-    bool fun(ListNode* head)
-    {
-        ListNode* current1=head;
-        ListNode* current2=head;
 
-        while(current1!=nullptr && current1->next!=nullptr)
-        {
-            current1=current1->next->next;
-            current2=current2->next;
-            if(current1==current2) return true;
-        }
-        return false;
-    }
     ListNode *detectCycle(ListNode *head) {
         
-        if(head==nullptr || head->next==nullptr) return NULL;
+        ListNode* fast=head;
+        ListNode* slow=head;
 
-        bool isok=fun(head);
-        if(isok)
+        while(fast!=nullptr && fast->next!=nullptr)
         {
-            set<ListNode*> st;
-            ListNode* dummy=head;
-            while(!st.count(dummy))
+            fast=fast->next->next;
+            slow=slow->next;
+            if(fast==slow)
             {
-                st.insert(dummy);
-                dummy=dummy->next;
+                slow=head;
+                while(slow!=fast)
+                {
+                    slow=slow->next;
+                    fast=fast->next;
+                }
+                return slow;
             }
-            return dummy;
         }
+
         return NULL;
     }
 };
