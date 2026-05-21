@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
