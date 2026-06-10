@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0155-min-stack) |
 | [2069-walking-robot-simulation-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2069-walking-robot-simulation-ii) |
 ## Simulation
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
