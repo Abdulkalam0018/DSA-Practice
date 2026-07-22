@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## String
