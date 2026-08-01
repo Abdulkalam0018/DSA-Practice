@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Memoization
