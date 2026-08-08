@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [0875-koko-eating-bananas](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [1092-shortest-common-supersequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 ## Stack
 |  |
 | ------- |
@@ -301,15 +305,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
