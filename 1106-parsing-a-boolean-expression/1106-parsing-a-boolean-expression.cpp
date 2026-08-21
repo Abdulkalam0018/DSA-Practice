@@ -1,48 +1,77 @@
-#include <string>
-#include <stack>
-
-using namespace std;
-
 class Solution {
 public:
-    bool parseBoolExpr(string expression) {
-        stack<char> st;
+    bool parseBoolExpr(string exp) {
+        
+        stack<char>st;
+                int a=0;
+                int b=0;
 
-        for (char c : expression) {
-            if (c == ',') {
-                continue;
+        for(auto &x:exp)
+        {
+            if(x==',') continue;
+
+            if(x!=')')
+            {
+                st.push(x);
             }
-            if (c != ')') {
-                st.push(c);
-            } 
-            else {
-                bool hasTrue = false;
-                bool hasFalse = false;
-                while (st.top() != '(') {
-                    char val = st.top();
+            else
+            {
+
+                while(st.top()!='(')
+                {
+                    if(st.top()=='t')
+                    {
+                        a=1;
+                    }
+                    if(st.top()=='f')
+                    {
+                        b=1;
+                    }
                     st.pop();
-                    if (val == 't') hasTrue = true;
-                    if (val == 'f') hasFalse = true;
                 }
-                
-                st.pop(); 
-                
-                char op = st.top(); 
-                st.pop(); 
+                st.pop();
 
-                char res;
-                if (op == '!') {
-                    res = hasTrue ? 'f' : 't';
-                } else if (op == '&') {
-                    res = hasFalse ? 'f' : 't'; 
-                } else if (op == '|') {
-                    res = hasTrue ? 't' : 'f';  
+                char op=st.top();
+                st.pop();
+                if(op=='!')
+                {
+                    if(a) a=0,b=1;
+                    else b=0,a=1;
                 }
+                else if(op=='&')
+                {
+                    if(b)
+                    {
+                        a=0;
+                        b=1;
+                    }
+                    else
+                    {
+                        a=1;
+                        b=0;
+                    }
+                }
+                else
+                {
+                    if(a)
+                    {
+                        b=0;
+                        a=1;
+                    }
+                    else
+                    {
+                        a=0;
+                        b=1;
+                    }
+                }
+                if(a)
+                st.push('t');
+                else st.push('f');
                 
-                st.push(res);
             }
+
         }
 
-        return st.top() == 't';
+        return st.top()=='t'?true:false;
     }
 };
