@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Design
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
