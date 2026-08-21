@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 ## Trie
 |  |
