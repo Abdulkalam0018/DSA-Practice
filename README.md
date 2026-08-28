@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Binary Search
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
