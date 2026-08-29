@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
