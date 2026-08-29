@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0740-delete-and-earn) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [0875-koko-eating-bananas](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0135-candy) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## String
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0901-online-stock-span](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0901-online-stock-span](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
