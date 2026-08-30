@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [1922-count-good-numbers](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1922-count-good-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1922-count-good-numbers](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
