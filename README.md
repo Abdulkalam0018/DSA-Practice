@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0234-palindrome-linked-list) |
