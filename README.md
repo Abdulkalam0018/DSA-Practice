@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0528-random-pick-with-weight](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0875-koko-eating-bananas](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -451,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0528-random-pick-with-weight) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
