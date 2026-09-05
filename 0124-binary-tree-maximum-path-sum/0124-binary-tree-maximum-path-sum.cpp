@@ -1,19 +1,22 @@
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {
-        int maxSum = INT_MIN; 
-        auto maxPath = [&maxSum](TreeNode* root1, auto& maxPath) -> int {
-            if (root1 == nullptr) {
-                return 0;  
-            }
+        int max_sum = INT_MIN; 
+        findMax(root, max_sum);
+        return max_sum;
+    }
 
-            int leftSum = max(maxPath(root1->left, maxPath), 0);
-            int rightSum = max(maxPath(root1->right, maxPath), 0); 
-            int localMaxSum = root1->val + leftSum + rightSum;
-            maxSum = max(maxSum, localMaxSum);
-            return root1->val + max(leftSum, rightSum);
-        };
-        maxPath(root, maxPath);
-        return maxSum;
+private:
+    int findMax(TreeNode* node, int& max_sum) {
+        if (node == nullptr) {
+            return 0;
+        }
+
+        int left_sum = max(0, findMax(node->left, max_sum));
+        int right_sum = max(0, findMax(node->right, max_sum));
+        int current_path_sum = node->val + left_sum + right_sum;
+        max_sum = max(max_sum, current_path_sum);
+
+        return node->val + max(left_sum, right_sum);
     }
 };
