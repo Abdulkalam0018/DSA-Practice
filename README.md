@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
