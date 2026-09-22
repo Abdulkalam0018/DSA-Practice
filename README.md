@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2540-minimum-common-value) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Dynamic Programming
 |  |
 | ------- |
