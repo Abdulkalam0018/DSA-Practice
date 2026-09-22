@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4054-count-shadow-pairs-i) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Math
 |  |
 | ------- |
