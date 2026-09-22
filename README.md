@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4054-count-shadow-pairs-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4054-count-shadow-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [4054-count-shadow-pairs-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4054-count-shadow-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [4054-count-shadow-pairs-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4054-count-shadow-pairs-i) |
 ## Queue
 |  |
 | ------- |
