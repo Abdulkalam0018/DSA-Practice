@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [1922-count-good-numbers](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1922-count-good-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Sliding Window
 |  |
 | ------- |
