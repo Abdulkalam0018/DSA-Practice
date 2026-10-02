@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0437-path-sum-iii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0437-path-sum-iii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0437-path-sum-iii) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 ## Matrix
 |  |
