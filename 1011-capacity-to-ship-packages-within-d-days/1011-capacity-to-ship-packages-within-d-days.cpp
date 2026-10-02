@@ -1,36 +1,32 @@
 class Solution {
 public:
-    bool check(vector<int>& weights, int days, int limit)
+    bool isok(vector<int>& w, int days , int lim)
     {
-        int sum=0;
-        int cnt=1;
-        for(auto &x:weights)
+        int adays=1;
+        int cur=0;
+        for(auto &x:w)
         {
-            if(x>limit) return false;
-            if(sum+x>limit)
+            cur+=x;
+            if(x>lim) return false;
+            if(cur>lim)
             {
-                cnt++;
-                sum=x;
+                adays++;
+                cur=x;
             }
-            else
-            {
-                sum+=x;
-            }
+            if(adays>days) return false;
         }
-        
-        if(cnt<=days) return true;
-        return false;
+        return true;
     }
-    int shipWithinDays(vector<int>& weights, int days) {
+    int shipWithinDays(vector<int>& w, int days) {
         
-        int ans=0;
         int low=1;
-        int high=accumulate(weights.begin(),weights.end(),0);
-
+        int high=accumulate(w.begin(),w.end(),0LL);
+        int ans=high;   
         while(low<=high)
         {
-            int mid=(low+high)/2;
-            if(check(weights,days,mid))
+            int mid=low+(high-low)/2;
+            
+            if(isok(w,days,mid))
             {
                 ans=mid;
                 high=mid-1;
@@ -39,7 +35,6 @@ public:
             {
                 low=mid+1;
             }
-            cout<<ans<<endl;
         }
         return ans;
     }
