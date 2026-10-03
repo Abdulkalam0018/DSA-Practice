@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
@@ -380,15 +382,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 ## Data Stream
 |  |
 | ------- |
