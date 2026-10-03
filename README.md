@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
+| [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -529,4 +531,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
+## Graph Theory
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
