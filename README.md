@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -541,10 +542,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -553,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
