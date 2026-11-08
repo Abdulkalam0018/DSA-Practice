@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
