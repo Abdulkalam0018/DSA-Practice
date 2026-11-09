@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2463-minimum-total-distance-traveled](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 ## Trie
