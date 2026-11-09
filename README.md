@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1048-longest-string-chain](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1048-longest-string-chain) |
