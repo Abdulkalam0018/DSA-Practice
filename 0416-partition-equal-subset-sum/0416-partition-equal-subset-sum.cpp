@@ -1,29 +1,26 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
+        using ll=long long;
+        ll sum=accumulate(nums.begin(),nums.end(),0LL);
 
-        int sum=accumulate(nums.begin(),nums.end(),0LL);
-        int n=nums.size();
+        if(sum%2) return false;
 
-        if(sum%2!=0) return false;
-        int k=sum/2;
+        ll tar=sum/2;
 
-
-
-        vector<int>dp(k+1,0);
-        dp[0]=1;
+        vector<bool>dp(tar+1,false);
+        dp[0]=true;
 
         for(auto &x:nums)
         {
-            for(int i=k;i>=0;i--)
+            for(int i=tar;i>=1;i--)
             {
-                if(i-x>=0 && dp[i-x]==1)
+                if(i-x>=0)
                 {
-                    dp[i]=1;
+                    dp[i]=dp[i]|dp[i-x];
                 }
             }
         }
-        if(dp[k]==1) return true;
-        return false;
+        return dp[tar];
     }
 };
