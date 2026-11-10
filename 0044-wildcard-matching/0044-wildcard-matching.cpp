@@ -22,7 +22,7 @@ public:
         }
         if(p[j]=='*')
         {
-            ans|=fun(i+1,j+1,s,p,n,m,dp);
+            //ans|=fun(i+1,j+1,s,p,n,m,dp);
             ans|=fun(i+1,j,s,p,n,m,dp);
             ans|=fun(i,j+1,s,p,n,m,dp);
         }
