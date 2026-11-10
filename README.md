@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0097-interleaving-string) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0394-decode-string) |
