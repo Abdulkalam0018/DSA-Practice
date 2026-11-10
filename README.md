@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -608,4 +609,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
