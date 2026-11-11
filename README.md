@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0337-house-robber-iii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -637,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
