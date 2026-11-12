@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0528-random-pick-with-weight) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0337-house-robber-iii) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -674,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
