@@ -3,21 +3,20 @@ public:
     int subarraySum(vector<int>& nums, int k) {
         
         unordered_map<int,int>mp;
-
-        int cnt=0;
+        int n=nums.size();
         mp[0]=1;
-
         int sum=0;
         int ans=0;
-        for(auto &x:nums)
+        for(int i=0;i<n;i++)
         {
-            sum+=x;
-            if(mp.find(sum-k)!=mp.end())
+            sum+=nums[i];
+            int tar=sum-k;
+
+            if(mp.find(tar)!=mp.end())
             {
-                ans+=mp[sum-k];
+                ans+=mp[tar];
             }
             mp[sum]++;
-
         }
         return ans;
     }
