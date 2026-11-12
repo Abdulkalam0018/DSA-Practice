@@ -13,7 +13,7 @@ public:
             {
                 v.push_back(nums[i]);
             }
-            else if(*it==nums[i]) continue;
+            // else if(*it==nums[i]) continue;
             else{
                 *it=nums[i];
             }
