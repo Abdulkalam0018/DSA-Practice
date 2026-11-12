@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -655,4 +657,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
