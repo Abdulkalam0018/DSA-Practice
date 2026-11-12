@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1499-max-value-of-equation](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
 ## Matrix
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -615,10 +619,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Rolling Hash
 |  |
