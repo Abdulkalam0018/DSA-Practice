@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0901-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/2069-walking-robot-simulation-ii) |
