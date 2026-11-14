@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0097-interleaving-string) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
