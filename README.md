@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
