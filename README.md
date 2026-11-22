@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0212-word-search-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0494-target-sum) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 ## Stack
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0773-sliding-puzzle](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0773-sliding-puzzle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
