@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0368-largest-divisible-subset](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0875-koko-eating-bananas](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Memoization
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -564,10 +568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## DP on Trees
 |  |
@@ -692,4 +698,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0279-perfect-squares) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abdulkalam0018/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
